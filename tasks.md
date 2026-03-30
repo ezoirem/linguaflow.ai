@@ -67,9 +67,9 @@
 
 ## Adım 10 — Deploy
 
-- [ ] Görev 39: Vercel / Netlify'a bağlan, `GEMINI_API_KEY` environment variable ekle
+- [ ] Görev 39: Lovable'a bağlan, `GEMINI_API_KEY` environment variable ekle 
 - [ ] Görev 40: Production build test et (`npm run build`)
 - [ ] Görev 41: HTTPS ortamında mikrofon iznini test et (Chrome/Edge)
 - [ ] Görev 42: End-to-end akış testi (senaryo seç → konuş → özet → export)
 - [ ] Görev 43: Demo videosu çek (Loom, 2-3 dakika)
-- [ ] Görev 44: Teslim formunu doldur
+- [ ] Görev 44: Teslim formunu doldur        
