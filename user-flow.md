@@ -2,7 +2,7 @@
 
 ## Genel Akış
 
-```
+```  
 Uygulama Açılır
       │
       ▼
@@ -35,7 +35,7 @@ Uygulama Açılır
 ## Adım Adım Detay
 
 ### 1. Uygulama Açılır
-- Kullanıcı `linguaflow.vercel.app` adresine gider
+- Kullanıcı `(https://ezokeskin.lovable.app/)` adresine gider
 - Türkçe arayüzde "Senaryo Seçin" başlığı ve 3 kategori sekmesi karşılar
 - Sağ üstte TR/EN dil değiştirme butonu vardır
 
@@ -78,7 +78,7 @@ Uygulama Açılır
 - **Yeni Seans:** Senaryo seçim ekranına döner
 - **Dışa Aktar:** `linguaflow-seans-[timestamp].json` dosyası indirilir
 
----
+--- 
 
 ## Hata Durumları
 
