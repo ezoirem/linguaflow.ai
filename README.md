@@ -19,8 +19,8 @@ LinguaFlow AI, kullanıcıları gerçek hayat senaryolarının içine sokar. Mik
 
 ## Canlı Demo
 
-🌐 **Yayın Linki:** `(https://ezokeskin.lovable.app/)`
-🎬 **Demo Video:** *https://www.loom.com/share/96fd02f7db7540219db517e9d17e2783
+🌐 **Yayın Linki:** [ezokeskin.lovable.app](https://ezokeskin.lovable.app/)
+🎬 **Demo Video:** [Buraya Tıklayarak İzleyebilirsiniz](https://www.loom.com/share/96fd02f7db7540219db517e9d17e2783)
 
 ---
 
